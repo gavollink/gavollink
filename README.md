@@ -2,6 +2,12 @@
 
 - Gary Allen Vollink's Personal Projects GitHub Account
 
+## Don't Miss
+
+I have a few more useful bits to add here.
+
+- https://gist.github.com/gavollink
+
 ## The Account ReadMe Template
 
 Templates are useful, but I'm probably doing it wrong.
@@ -15,7 +21,7 @@ Templates are useful, but I'm probably doing it wrong.
   - Python
   - Rust
 - 💞️ I’m looking to collaborate on ...
-  - Collaborat?  I try, but it's a struggle.
+  - Collaborate?  I try, but it's a struggle.
 - 📫 How to reach me ...
   - https://www.home.vollink.com/gary/
   - More likely, an issue on one of the Repositories I'll be mirroring here.
