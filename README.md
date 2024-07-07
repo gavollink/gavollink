@@ -35,5 +35,6 @@ Templates are useful, but I'm probably doing it wrong.
   - I have two rackmount servers in my living room...
     - One of them runs my personal git service.
     - One of my A/C units died, and my Rack Mount servers won't run if the temp is over ~86F/30C
-    - It'll still be another Week before the replacement happens
+    - It'll still be another ??? before the replacement happens
+      - First replacement was DOA, trying to get the resolved is wrapped up in "customer service"
     - Looks like my public projects are going to be copied out to github.
